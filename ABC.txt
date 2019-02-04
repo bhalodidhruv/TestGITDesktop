@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In Master
 In Master
 In Master
@@ -5,3 +6,8 @@ In Bug Fix
 In Master
 In Master
 In Master
+=======
+In Bug Fix
+In Bug Fix
+In Bug Fix
+>>>>>>> BugFix
